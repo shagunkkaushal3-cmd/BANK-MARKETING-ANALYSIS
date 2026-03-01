@@ -15,4 +15,5 @@ https://github.com/shagunkkaushal3-cmd/BANK-MARKETING-ANALYSIS/blob/main/1744721
 9. How does sales performance vary monthly or quarterly?
 10. Which factors (price, demand, stock level, delivery time) are most affecting customer satisfaction or sales performance?
 ## Presentation link
+https://github.com/shagunkkaushal3-cmd/BANK-MARKETING-ANALYSIS/blob/main/BANK%20MARKETING%20PPT.pdf
 
